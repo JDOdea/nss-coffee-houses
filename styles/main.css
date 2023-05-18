@@ -1,0 +1,21 @@
+/* 
+
+*/
+
+.pageHeader {
+    text-align: center;
+    padding: .8em;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.shop {
+    flex-basis: 29%;
+    border: 1.98px dotted rgb(0, 0, 0);
+    padding: 0.1em;
+    text-align: left;
+}
